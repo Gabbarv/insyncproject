@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/insyncproject/static/css/main.0ab2554a.css",
+    "main.js": "/insyncproject/static/js/main.29ac369e.js",
+    "static/media/Movie.png": "/insyncproject/static/media/Movie.8c4638f82d41d9cad38a.png",
+    "index.html": "/insyncproject/index.html",
+    "main.0ab2554a.css.map": "/insyncproject/static/css/main.0ab2554a.css.map",
+    "main.29ac369e.js.map": "/insyncproject/static/js/main.29ac369e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab2554a.css",
+    "static/js/main.29ac369e.js"
+  ]
+}
